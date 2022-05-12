@@ -1,0 +1,6 @@
+/home/hisfog/byyl_sy/minipascal/build/CMakeFiles/edit_cache.dir
+/home/hisfog/byyl_sy/minipascal/build/CMakeFiles/rebuild_cache.dir
+/home/hisfog/byyl_sy/minipascal/build/CMakeFiles/boolExpression.dir
+/home/hisfog/byyl_sy/minipascal/build/CMakeFiles/minipascal.dir
+/home/hisfog/byyl_sy/minipascal/build/CMakeFiles/basic.dir
+/home/hisfog/byyl_sy/minipascal/build/CMakeFiles/AST.dir

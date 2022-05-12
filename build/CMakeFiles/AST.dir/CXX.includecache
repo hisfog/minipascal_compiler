@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hisfog/byyl_sy/minipascal/src/AST.cpp
+AST.h
+/home/hisfog/byyl_sy/minipascal/src/AST.h
+
+/home/hisfog/byyl_sy/minipascal/src/AST.h
+vector
+-
+map
+-
+iostream
+-
+boost/regex.hpp
+-
+

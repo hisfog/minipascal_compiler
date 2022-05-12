@@ -1,0 +1,2 @@
+/usr/bin/ar qc libboolExpression.a  CMakeFiles/boolExpression.dir/src/boolExpression.cpp.o
+/usr/bin/ranlib libboolExpression.a

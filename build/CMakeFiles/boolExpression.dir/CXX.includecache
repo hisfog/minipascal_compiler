@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hisfog/byyl_sy/minipascal/src/boolExpression.cpp
+iostream
+-
+boost/regex.hpp
+-
+string
+-
+vector
+-
+map
+-
+sstream
+-
+stack
+-
+
